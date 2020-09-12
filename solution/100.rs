@@ -5,6 +5,7 @@
  *
  * Recover the tree without changing its structure.
  *
+ 
  * Example 1:
  *
  *
