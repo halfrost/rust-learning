@@ -6,6 +6,7 @@
  * Each word must be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. The same letter cell may not be used more than once in a word.
  *
  *
+ 
  *
  * Example:
  *
