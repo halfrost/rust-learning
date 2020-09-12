@@ -7,6 +7,7 @@
  *
  * Example 1:
  *
+ 
  *
  * Input: [2,3,2]
  * Output: 3
