@@ -5,6 +5,7 @@
  *
  * Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.
  *
+ 
  * <img alt="Rectangle Area" src="https://assets.leetcode.com/uploads/2018/10/22/rectangle_area.png" style="width: 542px; height: 304px;" />
  *
  * Example:
