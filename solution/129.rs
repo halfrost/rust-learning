@@ -16,6 +16,7 @@
  *
  * After running your function, the board should be:
  *
+ 
  *
  * X X X X
  * X X X X
