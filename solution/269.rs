@@ -12,6 +12,7 @@
  * Note:
  *
  *
+ 
  * 	A word is defined as a character sequence consisting of non-space characters only.
  * 	Each word's length is guaranteed to be greater than 0 and not exceed maxWidth.
  * 	The input array words contains at least one word.
