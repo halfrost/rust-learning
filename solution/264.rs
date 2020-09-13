@@ -9,6 +9,7 @@
  *
  * <img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" />
  *
+ 
  * An obstacle and empty space is marked as 1 and 0 respectively in the grid.
  *
  * Note: m and n will be at most 100.
