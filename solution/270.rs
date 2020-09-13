@@ -13,6 +13,7 @@
  * Input: 4
  * Output: 2
  *
+ 
  *
  * Example 2:
  *
