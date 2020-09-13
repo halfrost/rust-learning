@@ -5,6 +5,7 @@
  *
  * The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
  *
+ 
  * How many possible unique paths are there?
  *
  * <img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" /><br />
