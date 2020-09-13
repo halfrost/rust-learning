@@ -5,6 +5,7 @@
  *
  * You have the following 3 operations permitted on a word:
  *
+ 
  * <ol>
  * 	Insert a character
  * 	Delete a character
